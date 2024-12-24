@@ -1,3 +1,2 @@
 console.log('config.js')
-console.log('version2')
-moa
+console.log('version4')
